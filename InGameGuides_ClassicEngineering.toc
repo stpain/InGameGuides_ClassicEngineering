@@ -1,0 +1,16 @@
+## Interface: 11505
+## Author: TheBoringDad
+## Version: 0.1
+## Title: InGameGuides_ClassicEngineering
+## Notes: Classic Engineering guide for IGG
+## SavedVariables: IGG_GLOBAL_CLASSIC_ENGINEERING
+## Dependencies: InGameGuides
+## LoadOnDemand: 1
+
+## X-Curse-Project-ID: 1159386
+
+## X-IGG-Title: Classic Engineering
+## X-IGG-Author:
+## X-IGG-Icon: Mobile-Enginnering
+
+InGameGuides_ClassicEngineering.lua
